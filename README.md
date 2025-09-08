@@ -12,6 +12,15 @@ It includes **Users, Listings, Bookings, Reviews, and Experiences** with sample 
 
 ---
 
+
+
+## 📂 ER-Diagram
+
+<img width="1200" height="820" alt="ER_Diagram" src="https://github.com/user-attachments/assets/e89d987b-f776-4bc1-ad57-c1c424d64672" />
+
+
+
+---
 ## 📑 Schema Overview
 
 ### 1. USERS
